@@ -15,8 +15,7 @@ Este proyecto transforma datos brutos de eventos en un ecommerce en insights acc
    - [3. Exploración y Visualización 📊](#3-exploración-y-visualización-📊)  
    - [4. Análisis de Conversión y Segmentación 📈](#4-análisis-de-conversión-y-segmentación-📈)  
 6. [Conclusiones 🏁](#conclusiones-🏁)  
-7. [Cómo Ejecutar el Proyecto 💻](#cómo-ejecutar-el-proyecto-💻)  
-8. [Colaboradores 🤝](#colaboradores-🤝)
+7. [Colaboradores 🤝](#colaboradores-🤝)
 
 ---
 
@@ -114,15 +113,6 @@ El análisis permitió transformar datos crudos en insights que ayudan a compren
 
 ---
 
-## Cómo Ejecutar el Proyecto 💻
-
-1. Clonar este repositorio:  
-   `git clone https://github.com/tu-usuario/tu-repositorio.git`
-   
-2. Instalar las dependencias necesarias (por ejemplo, usando `requirements.txt`):  
-   `pip install -r requirements.txt`
-   
-3. Ejecutar los notebooks en JupyterLab o Google Colab.
 
 ---
 
